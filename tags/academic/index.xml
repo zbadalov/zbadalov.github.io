@@ -5,12 +5,340 @@
     <link>http://localhost:1313/tags/academic/</link>
       <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>http://localhost:1313/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>Пост по Недел 27-31 Сентябрь</title>
+      <link>http://localhost:1313/post/summary4/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary4/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#open-source--community-driven&#34;&gt;Open-source &amp;amp; Community-driven&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#-click-here-to-sponsor-and-support-hugo-bloxs-cicd-development-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to sponsor and support Hugo Blox&amp;rsquo;s CI/CD development ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#themes-and-customization&#34;&gt;Themes and Customization&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Hugo Blox CI/CD pipeline setup is designed for professional developers, teams, and organizations looking to automate their deployment workflows. It can be used to deploy and maintain any kind of Hugo-based site.&lt;/li&gt;
+&lt;li&gt;The pipeline can be customized to fit your specific needs. It’s ideal for anyone who wants full control over their website’s deployment process while benefiting from a no-code start using pre-configured YAML pipelines and scalability with further customization using shell scripts, Docker, or third-party services.&lt;/li&gt;
+&lt;li&gt;Integrate seamlessly with your favorite tools and apps, using hundreds of plugins and integrations to streamline workflows, monitor site performance, and automate repetitive tasks&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/cicd-setup/&#34;&gt;Set up a new CI/CD pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/cicd/&#34;&gt;Customize your pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 [Join the Hugo Blox community on &lt;a href=&#34;https://discord.gg/z8wNYzb&#34;&gt;Discord&lt;/a&gt; or the broader Hugo community on &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Discourse&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34;&gt;Request new CI/CD features or report a bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ Updating Hugo Blox CI/CD pipelines? Check out the &lt;a href=&#34;https://docs.hugoblox.com/reference/cicd-update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;open-source--community-driven&#34;&gt;Open-source &amp;amp; Community-driven&lt;/h2&gt;
+&lt;p&gt;Help us continue developing this open-source CI/CD system under the MIT license by sponsoring. Your contributions help us maintain and improve the project for the benefit of all.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-sponsor-and-support-hugo-bloxs-cicd-development-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to sponsor and support Hugo Blox&amp;rsquo;s CI/CD development ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a sponsor, you can unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;exclusive perks&lt;/a&gt; as a token of appreciation for your support.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GetRD/hugo-gh-actions-template&#34;&gt;Hugo + GitHub Actions&lt;/a&gt;: Automate site builds and deploy to GitHub Pages with ease&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GetRD/hugo-docker-template&#34;&gt;Dockerized Hugo Deployments&lt;/a&gt;: Simplify deployments using Docker containers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34;&gt;See how other developers&lt;/a&gt; are using the Hugo Blox CI/CD system for their projects.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No-code Deployment Pipelines - Get started with pre-built &lt;a href=&#34;https://hugoblox.com/cicd-blocks/&#34;&gt;CI/CD blocks&lt;/a&gt; and customizable YAML configurations&lt;/li&gt;
+&lt;li&gt;Edit any type of content - Automatically deploy blog posts, publications, talks, projects, and more with each commit&lt;/li&gt;
+&lt;li&gt;Version Control Integrations - Works with &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;https://gitlab.com&#34;&gt;GitLab&lt;/a&gt;, and &lt;a href=&#34;https://bitbucket.org&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Continuous Delivery - Automatically deploy to &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt;, &lt;a href=&#34;https://vercel.com&#34;&gt;Vercel&lt;/a&gt;, or your own server&lt;/li&gt;
+&lt;li&gt;Testing and Validation - Integrate with &lt;a href=&#34;https://circleci.com&#34;&gt;CI services&lt;/a&gt;, &lt;a href=&#34;https://github.com/features/actions&#34;&gt;GitHub Actions&lt;/a&gt;, and more to run tests on each build&lt;/li&gt;
+&lt;li&gt;Security Checks - Set up automated security checks to ensure compliance with GDPR and industry standards&lt;/li&gt;
+&lt;li&gt;Multi-environment Support - Deploy your site to development, staging, and production environments&lt;/li&gt;
+&lt;li&gt;Custom Notifications - Get real-time alerts via Slack, email, or other notification channels when your pipeline runs&lt;/li&gt;
+&lt;li&gt;One-click Deployment - Effortlessly deploy with pre-configured CI/CD templates&lt;/li&gt;
+&lt;li&gt;Mobile-friendly monitoring - Track your deployments and site status from any device&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes-and-customization&#34;&gt;Themes and Customization&lt;/h2&gt;
+&lt;p&gt;Hugo Blox CI/CD supports customizable themes for your deployment dashboards, logs, and monitoring tools. Personalize your pipeline’s look and feel to match your brand or workflow preferences.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/cicd-dashboard/&#34;&gt;Choose a theme for your CI/CD dashboard&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки Научного Прогаммирования</title>
+      <link>http://localhost:1313/post/language/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/language/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#open-source--community-driven&#34;&gt;Open-source &amp;amp; Community-driven&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#-click-here-to-sponsor-and-support-hugo-bloxs-cicd-development-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to sponsor and support Hugo Blox&amp;rsquo;s CI/CD development ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#themes-and-customization&#34;&gt;Themes and Customization&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Hugo Blox CI/CD pipeline setup is designed for professional developers, teams, and organizations looking to automate their deployment workflows. It can be used to deploy and maintain any kind of Hugo-based site.&lt;/li&gt;
+&lt;li&gt;The pipeline can be customized to fit your specific needs. It’s ideal for anyone who wants full control over their website’s deployment process while benefiting from a no-code start using pre-configured YAML pipelines and scalability with further customization using shell scripts, Docker, or third-party services.&lt;/li&gt;
+&lt;li&gt;Integrate seamlessly with your favorite tools and apps, using hundreds of plugins and integrations to streamline workflows, monitor site performance, and automate repetitive tasks&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/cicd-setup/&#34;&gt;Set up a new CI/CD pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/cicd/&#34;&gt;Customize your pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 [Join the Hugo Blox community on &lt;a href=&#34;https://discord.gg/z8wNYzb&#34;&gt;Discord&lt;/a&gt; or the broader Hugo community on &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Discourse&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34;&gt;Request new CI/CD features or report a bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ Updating Hugo Blox CI/CD pipelines? Check out the &lt;a href=&#34;https://docs.hugoblox.com/reference/cicd-update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;open-source--community-driven&#34;&gt;Open-source &amp;amp; Community-driven&lt;/h2&gt;
+&lt;p&gt;Help us continue developing this open-source CI/CD system under the MIT license by sponsoring. Your contributions help us maintain and improve the project for the benefit of all.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-sponsor-and-support-hugo-bloxs-cicd-development-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to sponsor and support Hugo Blox&amp;rsquo;s CI/CD development ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a sponsor, you can unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;exclusive perks&lt;/a&gt; as a token of appreciation for your support.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GetRD/hugo-gh-actions-template&#34;&gt;Hugo + GitHub Actions&lt;/a&gt;: Automate site builds and deploy to GitHub Pages with ease&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GetRD/hugo-docker-template&#34;&gt;Dockerized Hugo Deployments&lt;/a&gt;: Simplify deployments using Docker containers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34;&gt;See how other developers&lt;/a&gt; are using the Hugo Blox CI/CD system for their projects.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No-code Deployment Pipelines - Get started with pre-built &lt;a href=&#34;https://hugoblox.com/cicd-blocks/&#34;&gt;CI/CD blocks&lt;/a&gt; and customizable YAML configurations&lt;/li&gt;
+&lt;li&gt;Edit any type of content - Automatically deploy blog posts, publications, talks, projects, and more with each commit&lt;/li&gt;
+&lt;li&gt;Version Control Integrations - Works with &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;https://gitlab.com&#34;&gt;GitLab&lt;/a&gt;, and &lt;a href=&#34;https://bitbucket.org&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Continuous Delivery - Automatically deploy to &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt;, &lt;a href=&#34;https://vercel.com&#34;&gt;Vercel&lt;/a&gt;, or your own server&lt;/li&gt;
+&lt;li&gt;Testing and Validation - Integrate with &lt;a href=&#34;https://circleci.com&#34;&gt;CI services&lt;/a&gt;, &lt;a href=&#34;https://github.com/features/actions&#34;&gt;GitHub Actions&lt;/a&gt;, and more to run tests on each build&lt;/li&gt;
+&lt;li&gt;Security Checks - Set up automated security checks to ensure compliance with GDPR and industry standards&lt;/li&gt;
+&lt;li&gt;Multi-environment Support - Deploy your site to development, staging, and production environments&lt;/li&gt;
+&lt;li&gt;Custom Notifications - Get real-time alerts via Slack, email, or other notification channels when your pipeline runs&lt;/li&gt;
+&lt;li&gt;One-click Deployment - Effortlessly deploy with pre-configured CI/CD templates&lt;/li&gt;
+&lt;li&gt;Mobile-friendly monitoring - Track your deployments and site status from any device&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes-and-customization&#34;&gt;Themes and Customization&lt;/h2&gt;
+&lt;p&gt;Hugo Blox CI/CD supports customizable themes for your deployment dashboards, logs, and monitoring tools. Personalize your pipeline’s look and feel to match your brand or workflow preferences.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/cicd-dashboard/&#34;&gt;Choose a theme for your CI/CD dashboard&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по Недел 19-26 Сентябрь</title>
+      <link>http://localhost:1313/post/summary3/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary3/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#open-source--community-driven&#34;&gt;Open-source &amp;amp; Community-driven&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#-click-here-to-sponsor-and-support-hugo-bloxs-cicd-development-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to sponsor and support Hugo Blox&amp;rsquo;s CI/CD development ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#themes-and-customization&#34;&gt;Themes and Customization&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Hugo Blox CI/CD pipeline setup is designed for professional developers, teams, and organizations looking to automate their deployment workflows. It can be used to deploy and maintain any kind of Hugo-based site.&lt;/li&gt;
+&lt;li&gt;The pipeline can be customized to fit your specific needs. It’s ideal for anyone who wants full control over their website’s deployment process while benefiting from a no-code start using pre-configured YAML pipelines and scalability with further customization using shell scripts, Docker, or third-party services.&lt;/li&gt;
+&lt;li&gt;Integrate seamlessly with your favorite tools and apps, using hundreds of plugins and integrations to streamline workflows, monitor site performance, and automate repetitive tasks&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/cicd-setup/&#34;&gt;Set up a new CI/CD pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/cicd/&#34;&gt;Customize your pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 [Join the Hugo Blox community on &lt;a href=&#34;https://discord.gg/z8wNYzb&#34;&gt;Discord&lt;/a&gt; or the broader Hugo community on &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Discourse&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34;&gt;Request new CI/CD features or report a bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ Updating Hugo Blox CI/CD pipelines? Check out the &lt;a href=&#34;https://docs.hugoblox.com/reference/cicd-update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;open-source--community-driven&#34;&gt;Open-source &amp;amp; Community-driven&lt;/h2&gt;
+&lt;p&gt;Help us continue developing this open-source CI/CD system under the MIT license by sponsoring. Your contributions help us maintain and improve the project for the benefit of all.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-sponsor-and-support-hugo-bloxs-cicd-development-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to sponsor and support Hugo Blox&amp;rsquo;s CI/CD development ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a sponsor, you can unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;exclusive perks&lt;/a&gt; as a token of appreciation for your support.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GetRD/hugo-gh-actions-template&#34;&gt;Hugo + GitHub Actions&lt;/a&gt;: Automate site builds and deploy to GitHub Pages with ease&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GetRD/hugo-docker-template&#34;&gt;Dockerized Hugo Deployments&lt;/a&gt;: Simplify deployments using Docker containers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34;&gt;See how other developers&lt;/a&gt; are using the Hugo Blox CI/CD system for their projects.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No-code Deployment Pipelines - Get started with pre-built &lt;a href=&#34;https://hugoblox.com/cicd-blocks/&#34;&gt;CI/CD blocks&lt;/a&gt; and customizable YAML configurations&lt;/li&gt;
+&lt;li&gt;Edit any type of content - Automatically deploy blog posts, publications, talks, projects, and more with each commit&lt;/li&gt;
+&lt;li&gt;Version Control Integrations - Works with &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;https://gitlab.com&#34;&gt;GitLab&lt;/a&gt;, and &lt;a href=&#34;https://bitbucket.org&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Continuous Delivery - Automatically deploy to &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt;, &lt;a href=&#34;https://vercel.com&#34;&gt;Vercel&lt;/a&gt;, or your own server&lt;/li&gt;
+&lt;li&gt;Testing and Validation - Integrate with &lt;a href=&#34;https://circleci.com&#34;&gt;CI services&lt;/a&gt;, &lt;a href=&#34;https://github.com/features/actions&#34;&gt;GitHub Actions&lt;/a&gt;, and more to run tests on each build&lt;/li&gt;
+&lt;li&gt;Security Checks - Set up automated security checks to ensure compliance with GDPR and industry standards&lt;/li&gt;
+&lt;li&gt;Multi-environment Support - Deploy your site to development, staging, and production environments&lt;/li&gt;
+&lt;li&gt;Custom Notifications - Get real-time alerts via Slack, email, or other notification channels when your pipeline runs&lt;/li&gt;
+&lt;li&gt;One-click Deployment - Effortlessly deploy with pre-configured CI/CD templates&lt;/li&gt;
+&lt;li&gt;Mobile-friendly monitoring - Track your deployments and site status from any device&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes-and-customization&#34;&gt;Themes and Customization&lt;/h2&gt;
+&lt;p&gt;Hugo Blox CI/CD supports customizable themes for your deployment dashboards, logs, and monitoring tools. Personalize your pipeline’s look and feel to match your brand or workflow preferences.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/cicd-dashboard/&#34;&gt;Choose a theme for your CI/CD dashboard&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что такое  презентаций</title>
+      <link>http://localhost:1313/post/presention/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/presention/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#open-source--community-driven&#34;&gt;Open-source &amp;amp; Community-driven&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#-click-here-to-sponsor-and-support-hugo-bloxs-cicd-development-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to sponsor and support Hugo Blox&amp;rsquo;s CI/CD development ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#themes-and-customization&#34;&gt;Themes and Customization&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Hugo Blox CI/CD pipeline setup is designed for professional developers, teams, and organizations looking to automate their deployment workflows. It can be used to deploy and maintain any kind of Hugo-based site.&lt;/li&gt;
+&lt;li&gt;The pipeline can be customized to fit your specific needs. It’s ideal for anyone who wants full control over their website’s deployment process while benefiting from a no-code start using pre-configured YAML pipelines and scalability with further customization using shell scripts, Docker, or third-party services.&lt;/li&gt;
+&lt;li&gt;Integrate seamlessly with your favorite tools and apps, using hundreds of plugins and integrations to streamline workflows, monitor site performance, and automate repetitive tasks&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/cicd-setup/&#34;&gt;Set up a new CI/CD pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/cicd/&#34;&gt;Customize your pipeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 [Join the Hugo Blox community on &lt;a href=&#34;https://discord.gg/z8wNYzb&#34;&gt;Discord&lt;/a&gt; or the broader Hugo community on &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Discourse&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34;&gt;Request new CI/CD features or report a bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ Updating Hugo Blox CI/CD pipelines? Check out the &lt;a href=&#34;https://docs.hugoblox.com/reference/cicd-update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;open-source--community-driven&#34;&gt;Open-source &amp;amp; Community-driven&lt;/h2&gt;
+&lt;p&gt;Help us continue developing this open-source CI/CD system under the MIT license by sponsoring. Your contributions help us maintain and improve the project for the benefit of all.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-sponsor-and-support-hugo-bloxs-cicd-development-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to sponsor and support Hugo Blox&amp;rsquo;s CI/CD development ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a sponsor, you can unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;exclusive perks&lt;/a&gt; as a token of appreciation for your support.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GetRD/hugo-gh-actions-template&#34;&gt;Hugo + GitHub Actions&lt;/a&gt;: Automate site builds and deploy to GitHub Pages with ease&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GetRD/hugo-docker-template&#34;&gt;Dockerized Hugo Deployments&lt;/a&gt;: Simplify deployments using Docker containers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34;&gt;See how other developers&lt;/a&gt; are using the Hugo Blox CI/CD system for their projects.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No-code Deployment Pipelines - Get started with pre-built &lt;a href=&#34;https://hugoblox.com/cicd-blocks/&#34;&gt;CI/CD blocks&lt;/a&gt; and customizable YAML configurations&lt;/li&gt;
+&lt;li&gt;Edit any type of content - Automatically deploy blog posts, publications, talks, projects, and more with each commit&lt;/li&gt;
+&lt;li&gt;Version Control Integrations - Works with &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;https://gitlab.com&#34;&gt;GitLab&lt;/a&gt;, and &lt;a href=&#34;https://bitbucket.org&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Continuous Delivery - Automatically deploy to &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt;, &lt;a href=&#34;https://vercel.com&#34;&gt;Vercel&lt;/a&gt;, or your own server&lt;/li&gt;
+&lt;li&gt;Testing and Validation - Integrate with &lt;a href=&#34;https://circleci.com&#34;&gt;CI services&lt;/a&gt;, &lt;a href=&#34;https://github.com/features/actions&#34;&gt;GitHub Actions&lt;/a&gt;, and more to run tests on each build&lt;/li&gt;
+&lt;li&gt;Security Checks - Set up automated security checks to ensure compliance with GDPR and industry standards&lt;/li&gt;
+&lt;li&gt;Multi-environment Support - Deploy your site to development, staging, and production environments&lt;/li&gt;
+&lt;li&gt;Custom Notifications - Get real-time alerts via Slack, email, or other notification channels when your pipeline runs&lt;/li&gt;
+&lt;li&gt;One-click Deployment - Effortlessly deploy with pre-configured CI/CD templates&lt;/li&gt;
+&lt;li&gt;Mobile-friendly monitoring - Track your deployments and site status from any device&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes-and-customization&#34;&gt;Themes and Customization&lt;/h2&gt;
+&lt;p&gt;Hugo Blox CI/CD supports customizable themes for your deployment dashboards, logs, and monitoring tools. Personalize your pipeline’s look and feel to match your brand or workflow preferences.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/cicd-dashboard/&#34;&gt;Choose a theme for your CI/CD dashboard&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по Недел 12-19 Сентябрь</title>
