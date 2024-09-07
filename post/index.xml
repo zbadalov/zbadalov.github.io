@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Hugo Academic CV Theme</title>
-    <link>http://localhost:42019/post/</link>
-      <atom:link href="http://localhost:42019/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:42019/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Blog</title>
-      <link>http://localhost:42019/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>Пост по Недел 12-19 Сентябрь</title>
-      <link>http://localhost:42019/post/summary2/</link>
+      <link>http://localhost:1313/post/summary2/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42019/post/summary2/</guid>
+      <guid>http://localhost:1313/post/summary2/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -96,9 +96,9 @@
     
     <item>
       <title>Что такое LaTex</title>
-      <link>http://localhost:42019/post/latex/</link>
+      <link>http://localhost:1313/post/latex/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42019/post/latex/</guid>
+      <guid>http://localhost:1313/post/latex/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -178,9 +178,9 @@
     
     <item>
       <title>Пост по Недел 5-12 Сентябрь</title>
-      <link>http://localhost:42019/post/summary1/</link>
+      <link>http://localhost:1313/post/summary1/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42019/post/summary1/</guid>
+      <guid>http://localhost:1313/post/summary1/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -264,9 +264,9 @@
     
     <item>
       <title>Что такое CI/CD</title>
-      <link>http://localhost:42019/post/ci-cd/</link>
+      <link>http://localhost:1313/post/ci-cd/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42019/post/ci-cd/</guid>
+      <guid>http://localhost:1313/post/ci-cd/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
