@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Мой сайт</title>
-    <link>http://localhost:1314/ru/tags/academic/</link>
-      <atom:link href="http://localhost:1314/ru/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zbadalov.github.io/tags/academic/</link>
+      <atom:link href="https://zbadalov.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/en/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zbadalov.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>http://localhost:1314/ru/tags/academic/</link>
+      <link>https://zbadalov.github.io/tags/academic/</link>
     </image>
     
     <item>
       <title>Пост по Недел 27-31 Сентябрь</title>
-      <link>http://localhost:1314/ru/post/summary4/</link>
+      <link>https://zbadalov.github.io/post/summary4/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/ru/post/summary4/</guid>
+      <guid>https://zbadalov.github.io/post/summary4/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -96,9 +96,9 @@
     
     <item>
       <title>Языки Научного Прогаммирования</title>
-      <link>http://localhost:1314/ru/post/language/</link>
+      <link>https://zbadalov.github.io/post/language/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/ru/post/language/</guid>
+      <guid>https://zbadalov.github.io/post/language/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -178,9 +178,9 @@
     
     <item>
       <title>Пост по Недел 19-26 Сентябрь</title>
-      <link>http://localhost:1314/ru/post/summary3/</link>
+      <link>https://zbadalov.github.io/post/summary3/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/ru/post/summary3/</guid>
+      <guid>https://zbadalov.github.io/post/summary3/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -260,9 +260,9 @@
     
     <item>
       <title>Что такое  презентаций</title>
-      <link>http://localhost:1314/ru/post/presention/</link>
+      <link>https://zbadalov.github.io/post/presention/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/ru/post/presention/</guid>
+      <guid>https://zbadalov.github.io/post/presention/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -342,9 +342,9 @@
     
     <item>
       <title>Пост по Недел 12-19 Сентябрь</title>
-      <link>http://localhost:1314/ru/post/summary2/</link>
+      <link>https://zbadalov.github.io/post/summary2/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/ru/post/summary2/</guid>
+      <guid>https://zbadalov.github.io/post/summary2/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -424,9 +424,9 @@
     
     <item>
       <title>Что такое LaTex</title>
-      <link>http://localhost:1314/ru/post/latex/</link>
+      <link>https://zbadalov.github.io/post/latex/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/ru/post/latex/</guid>
+      <guid>https://zbadalov.github.io/post/latex/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -506,9 +506,9 @@
     
     <item>
       <title>Пост по Недел 5-12 Сентябрь</title>
-      <link>http://localhost:1314/ru/post/summary1/</link>
+      <link>https://zbadalov.github.io/post/summary1/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/ru/post/summary1/</guid>
+      <guid>https://zbadalov.github.io/post/summary1/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -592,9 +592,9 @@
     
     <item>
       <title>Что такое CI/CD</title>
-      <link>http://localhost:1314/ru/post/ci-cd/</link>
+      <link>https://zbadalov.github.io/post/ci-cd/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/ru/post/ci-cd/</guid>
+      <guid>https://zbadalov.github.io/post/ci-cd/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 

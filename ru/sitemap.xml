@@ -2,536 +2,536 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1314/ru/event/example/</loc>
+    <loc>https://zbadalov.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/event/example/"
+                href="https://zbadalov.github.io/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/event/example/"
+                href="https://zbadalov.github.io/event/example/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/event/</loc>
+    <loc>https://zbadalov.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/event/"
+                href="https://zbadalov.github.io/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/event/"
+                href="https://zbadalov.github.io/event/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/project/github/</loc>
+    <loc>https://zbadalov.github.io/project/github/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/github/"
+                href="https://zbadalov.github.io/project/github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/project/github/"
+                href="https://zbadalov.github.io/project/github/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/hugo/</loc>
+    <loc>https://zbadalov.github.io/tags/hugo/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/hugo/"
+                href="https://zbadalov.github.io/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/hugo/"
+                href="https://zbadalov.github.io/tags/hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/markdown/</loc>
+    <loc>https://zbadalov.github.io/tags/markdown/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/markdown/"
+                href="https://zbadalov.github.io/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/markdown/"
+                href="https://zbadalov.github.io/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/project/</loc>
+    <loc>https://zbadalov.github.io/project/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/"
+                href="https://zbadalov.github.io/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/project/"
+                href="https://zbadalov.github.io/project/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/</loc>
+    <loc>https://zbadalov.github.io/tags/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                href="https://zbadalov.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/"
+                href="https://zbadalov.github.io/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/wowchemy/</loc>
+    <loc>https://zbadalov.github.io/tags/wowchemy/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/wowchemy/"
+                href="https://zbadalov.github.io/tags/wowchemy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/wowchemy/"
+                href="https://zbadalov.github.io/tags/wowchemy/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/academic/</loc>
+    <loc>https://zbadalov.github.io/tags/academic/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/academic/"
+                href="https://zbadalov.github.io/tags/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/academic/"
+                href="https://zbadalov.github.io/tags/academic/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/</loc>
+    <loc>https://zbadalov.github.io/post/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/"
+                href="https://zbadalov.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/"
+                href="https://zbadalov.github.io/post/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/summary4/</loc>
+    <loc>https://zbadalov.github.io/post/summary4/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/summary4/"
+                href="https://zbadalov.github.io/post/summary4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summary4/"
+                href="https://zbadalov.github.io/post/summary4/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/language/</loc>
+    <loc>https://zbadalov.github.io/post/language/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/language/"
+                href="https://zbadalov.github.io/post/language/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/language/"
+                href="https://zbadalov.github.io/post/language/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/summary3/</loc>
+    <loc>https://zbadalov.github.io/post/summary3/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/summary3/"
+                href="https://zbadalov.github.io/post/summary3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summary3/"
+                href="https://zbadalov.github.io/post/summary3/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/presention/</loc>
+    <loc>https://zbadalov.github.io/post/presention/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/presention/"
+                href="https://zbadalov.github.io/post/presention/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/presention/"
+                href="https://zbadalov.github.io/post/presention/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/summary2/</loc>
+    <loc>https://zbadalov.github.io/post/summary2/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/summary2/"
+                href="https://zbadalov.github.io/post/summary2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summary2/"
+                href="https://zbadalov.github.io/post/summary2/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/latex/</loc>
+    <loc>https://zbadalov.github.io/post/latex/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/latex/"
+                href="https://zbadalov.github.io/post/latex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/latex/"
+                href="https://zbadalov.github.io/post/latex/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/summary1/</loc>
+    <loc>https://zbadalov.github.io/post/summary1/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/summary1/"
+                href="https://zbadalov.github.io/post/summary1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summary1/"
+                href="https://zbadalov.github.io/post/summary1/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/ci-cd/</loc>
+    <loc>https://zbadalov.github.io/post/ci-cd/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/ci-cd/"
+                href="https://zbadalov.github.io/post/ci-cd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/ci-cd/"
+                href="https://zbadalov.github.io/post/ci-cd/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/projects/</loc>
+    <loc>https://zbadalov.github.io/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/projects/"
+                href="https://zbadalov.github.io/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/projects/"
+                href="https://zbadalov.github.io/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/project/pandas/</loc>
+    <loc>https://zbadalov.github.io/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/pandas/"
+                href="https://zbadalov.github.io/project/pandas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/project/pandas/"
+                href="https://zbadalov.github.io/project/pandas/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/project/pytorch/</loc>
+    <loc>https://zbadalov.github.io/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/pytorch/"
+                href="https://zbadalov.github.io/project/pytorch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/project/pytorch/"
+                href="https://zbadalov.github.io/project/pytorch/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/experience/</loc>
+    <loc>https://zbadalov.github.io/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/experience/"
+                href="https://zbadalov.github.io/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/experience/"
+                href="https://zbadalov.github.io/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/javascript/</loc>
+    <loc>https://zbadalov.github.io/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/javascript/"
+                href="https://zbadalov.github.io/tags/javascript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/javascript/"
+                href="https://zbadalov.github.io/tags/javascript/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/teaching/js/</loc>
+    <loc>https://zbadalov.github.io/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/teaching/js/"
+                href="https://zbadalov.github.io/teaching/js/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/teaching/js/"
+                href="https://zbadalov.github.io/teaching/js/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/teaching/python/</loc>
+    <loc>https://zbadalov.github.io/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/teaching/python/"
+                href="https://zbadalov.github.io/teaching/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/teaching/python/"
+                href="https://zbadalov.github.io/teaching/python/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/python/</loc>
+    <loc>https://zbadalov.github.io/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/python/"
+                href="https://zbadalov.github.io/tags/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/python/"
+                href="https://zbadalov.github.io/tags/python/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/teaching/</loc>
+    <loc>https://zbadalov.github.io/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/teaching/"
+                href="https://zbadalov.github.io/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/teaching/"
+                href="https://zbadalov.github.io/teaching/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/</loc>
+    <loc>https://zbadalov.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/"
+                href="https://zbadalov.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/"
+                href="https://zbadalov.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication/preprint/</loc>
+    <loc>https://zbadalov.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/preprint/"
+                href="https://zbadalov.github.io/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication/preprint/"
+                href="https://zbadalov.github.io/publication/preprint/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication_types/article/</loc>
+    <loc>https://zbadalov.github.io/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/article/"
+                href="https://zbadalov.github.io/publication_types/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication_types/article/"
+                href="https://zbadalov.github.io/publication_types/article/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/large-language-models/</loc>
+    <loc>https://zbadalov.github.io/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/large-language-models/"
+                href="https://zbadalov.github.io/tags/large-language-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/large-language-models/"
+                href="https://zbadalov.github.io/tags/large-language-models/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication_types/</loc>
+    <loc>https://zbadalov.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/"
+                href="https://zbadalov.github.io/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication_types/"
+                href="https://zbadalov.github.io/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication/</loc>
+    <loc>https://zbadalov.github.io/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/"
+                href="https://zbadalov.github.io/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication/"
+                href="https://zbadalov.github.io/publication/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication/journal-article/</loc>
+    <loc>https://zbadalov.github.io/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/journal-article/"
+                href="https://zbadalov.github.io/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication/journal-article/"
+                href="https://zbadalov.github.io/publication/journal-article/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication_types/article-journal/</loc>
+    <loc>https://zbadalov.github.io/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/article-journal/"
+                href="https://zbadalov.github.io/publication_types/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication_types/article-journal/"
+                href="https://zbadalov.github.io/publication_types/article-journal/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/source-themes/</loc>
+    <loc>https://zbadalov.github.io/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/source-themes/"
+                href="https://zbadalov.github.io/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/source-themes/"
+                href="https://zbadalov.github.io/tags/source-themes/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication/conference-paper/</loc>
+    <loc>https://zbadalov.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/conference-paper/"
+                href="https://zbadalov.github.io/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication/conference-paper/"
+                href="https://zbadalov.github.io/publication/conference-paper/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication_types/paper-conference/</loc>
+    <loc>https://zbadalov.github.io/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/paper-conference/"
+                href="https://zbadalov.github.io/publication_types/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication_types/paper-conference/"
+                href="https://zbadalov.github.io/publication_types/paper-conference/"
                 />
   </url>
 </urlset>
