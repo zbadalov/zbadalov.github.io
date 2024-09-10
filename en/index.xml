@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Site</title>
-    <link>https://zbadalov.github.io/</link>
-      <atom:link href="https://zbadalov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zbadalov.github.io/en/</link>
+      <atom:link href="https://zbadalov.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>My Site</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zbadalov.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zbadalov.github.io/en/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>My Site</title>
-      <link>https://zbadalov.github.io/</link>
+      <link>https://zbadalov.github.io/en/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://zbadalov.github.io/event/example/</link>
+      <link>https://zbadalov.github.io/en/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/event/example/</guid>
+      <guid>https://zbadalov.github.io/en/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,18 +35,18 @@
     
     <item>
       <title>GitHub Lab</title>
-      <link>https://zbadalov.github.io/project/github/</link>
+      <link>https://zbadalov.github.io/en/project/github/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/project/github/</guid>
+      <guid>https://zbadalov.github.io/en/project/github/</guid>
       <description>&lt;p&gt;GitHub — это платформа для хостинга и совместной разработки программного обеспечения, построенная на системе контроля версий Git. Она предоставляет разработчикам удобные инструменты для управления исходным кодом, отслеживания изменений, работы в командах и ведения открытых и закрытых проектов.&lt;/p&gt;
 &lt;p&gt;license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Пост по неделe</title>
-      <link>https://zbadalov.github.io/post/summary4/</link>
+      <link>https://zbadalov.github.io/en/post/summary4/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/post/summary4/</guid>
+      <guid>https://zbadalov.github.io/en/post/summary4/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -126,9 +126,9 @@
     
     <item>
       <title>Что такое Linux</title>
-      <link>https://zbadalov.github.io/post/linux/</link>
+      <link>https://zbadalov.github.io/en/post/linux/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/post/linux/</guid>
+      <guid>https://zbadalov.github.io/en/post/linux/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -199,9 +199,9 @@
     
     <item>
       <title>Hаучные языки программирования</title>
-      <link>https://zbadalov.github.io/post/language/</link>
+      <link>https://zbadalov.github.io/en/post/language/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/post/language/</guid>
+      <guid>https://zbadalov.github.io/en/post/language/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -260,9 +260,9 @@
     
     <item>
       <title>Пост по неделe</title>
-      <link>https://zbadalov.github.io/post/summary3/</link>
+      <link>https://zbadalov.github.io/en/post/summary3/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/post/summary3/</guid>
+      <guid>https://zbadalov.github.io/en/post/summary3/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -342,9 +342,9 @@
     
     <item>
       <title>Что такое  презентаций</title>
-      <link>https://zbadalov.github.io/post/presention/</link>
+      <link>https://zbadalov.github.io/en/post/presention/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/post/presention/</guid>
+      <guid>https://zbadalov.github.io/en/post/presention/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -424,9 +424,9 @@
     
     <item>
       <title>Пост по неделe 03.09.2024 - 09.09.2024</title>
-      <link>https://zbadalov.github.io/post/summary2/</link>
+      <link>https://zbadalov.github.io/en/post/summary2/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/post/summary2/</guid>
+      <guid>https://zbadalov.github.io/en/post/summary2/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -506,9 +506,9 @@
     
     <item>
       <title>Что такое LaTex</title>
-      <link>https://zbadalov.github.io/post/latex/</link>
+      <link>https://zbadalov.github.io/en/post/latex/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/post/latex/</guid>
+      <guid>https://zbadalov.github.io/en/post/latex/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -588,9 +588,9 @@
     
     <item>
       <title>Пост по неделe 26.08.2024 - 02.09.2024</title>
-      <link>https://zbadalov.github.io/post/summary1/</link>
+      <link>https://zbadalov.github.io/en/post/summary1/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/post/summary1/</guid>
+      <guid>https://zbadalov.github.io/en/post/summary1/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -674,9 +674,9 @@
     
     <item>
       <title>Что такое CI/CD</title>
-      <link>https://zbadalov.github.io/post/ci-cd/</link>
+      <link>https://zbadalov.github.io/en/post/ci-cd/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/post/ci-cd/</guid>
+      <guid>https://zbadalov.github.io/en/post/ci-cd/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -756,41 +756,41 @@
     
     <item>
       <title>Projects</title>
-      <link>https://zbadalov.github.io/projects/</link>
+      <link>https://zbadalov.github.io/en/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/projects/</guid>
+      <guid>https://zbadalov.github.io/en/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>https://zbadalov.github.io/project/pandas/</link>
+      <link>https://zbadalov.github.io/en/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/project/pandas/</guid>
+      <guid>https://zbadalov.github.io/en/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://zbadalov.github.io/project/pytorch/</link>
+      <link>https://zbadalov.github.io/en/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/project/pytorch/</guid>
+      <guid>https://zbadalov.github.io/en/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://zbadalov.github.io/experience/</link>
+      <link>https://zbadalov.github.io/en/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/experience/</guid>
+      <guid>https://zbadalov.github.io/en/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>https://zbadalov.github.io/teaching/js/</link>
+      <link>https://zbadalov.github.io/en/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/teaching/js/</guid>
+      <guid>https://zbadalov.github.io/en/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -837,7 +837,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://zbadalov.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://zbadalov.github.io/en/en/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -914,9 +914,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>https://zbadalov.github.io/teaching/python/</link>
+      <link>https://zbadalov.github.io/en/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/teaching/python/</guid>
+      <guid>https://zbadalov.github.io/en/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -963,7 +963,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://zbadalov.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://zbadalov.github.io/en/en/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1040,10 +1040,10 @@ data.head()
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://zbadalov.github.io/publication/preprint/</link>
+      <link>https://zbadalov.github.io/en/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://zbadalov.github.io/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>https://zbadalov.github.io/en/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://zbadalov.github.io/en/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1056,9 +1056,9 @@ data.head()
     
     <item>
       <title>An example journal article</title>
-      <link>https://zbadalov.github.io/publication/journal-article/</link>
+      <link>https://zbadalov.github.io/en/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/publication/journal-article/</guid>
+      <guid>https://zbadalov.github.io/en/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1077,9 +1077,9 @@ data.head()
     
     <item>
       <title>An example conference paper</title>
-      <link>https://zbadalov.github.io/publication/conference-paper/</link>
+      <link>https://zbadalov.github.io/en/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://zbadalov.github.io/publication/conference-paper/</guid>
+      <guid>https://zbadalov.github.io/en/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
