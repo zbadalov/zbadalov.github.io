@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/hugo/</link>
-      <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/hugo/</link>
+      <atom:link href="http://localhost:1313/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/en/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>http://localhost:1313/en/tags/hugo/</link>
     </image>
     
     <item>
       <title>GitHub Lab</title>
-      <link>http://localhost:1313/project/github/</link>
+      <link>http://localhost:1313/en/project/github/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/github/</guid>
+      <guid>http://localhost:1313/en/project/github/</guid>
       <description>&lt;p&gt;GitHub — это платформа для хостинга и совместной разработки программного обеспечения, построенная на системе контроля версий Git. Она предоставляет разработчикам удобные инструменты для управления исходным кодом, отслеживания изменений, работы в командах и ведения открытых и закрытых проектов.&lt;/p&gt;
 &lt;p&gt;license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <link>http://localhost:1313/en/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <guid>http://localhost:1313/en/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>http://localhost:1313/en/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
+      <guid>http://localhost:1313/en/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
