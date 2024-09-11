@@ -58,6 +58,20 @@
                 href="http://localhost:1313/en/post/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/post/summarynew/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1314/ru/post/summarynew/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/summarynew/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -70,20 +84,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/post/summary_new/</loc>
-    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summary_new/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/summary_new/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/project/github/</loc>

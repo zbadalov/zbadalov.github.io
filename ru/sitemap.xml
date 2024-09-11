@@ -72,18 +72,18 @@
                 href="http://localhost:1314/ru/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/summary_new/</loc>
+    <loc>http://localhost:1314/ru/post/summarynew/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/summary_new/"
+                href="http://localhost:1313/en/post/summarynew/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summary_new/"
+                href="http://localhost:1314/ru/post/summarynew/"
                 />
   </url><url>
     <loc>http://localhost:1314/ru/project/github/</loc>

@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | My Site</title>
+    <title>Blog | Hugo Academic CV Theme</title>
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Blog</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Peresdacha</title>
+      <link>http://localhost:1313/post/summarynew/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summarynew/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#first&#34;&gt;First&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#second&#34;&gt;Second&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;first&#34;&gt;First&lt;/h2&gt;
+&lt;p&gt;First, teacher asked to show him, how I do the work in terminal.&lt;/p&gt;
+&lt;h2 id=&#34;second&#34;&gt;Second&lt;/h2&gt;
+&lt;p&gt;Secondly, he asked me to show, how I create the post.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по неделe</title>
