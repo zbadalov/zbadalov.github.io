@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/ru/</link>
-      <atom:link href="http://localhost:1313/ru/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hugo Academic CV Theme</description>
+    <title>Мой сайт</title>
+    <link>http://localhost:1314/ru/</link>
+      <atom:link href="http://localhost:1314/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Мой сайт</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
-      <title>Hugo Academic CV Theme</title>
-      <link>http://localhost:1313/ru/</link>
+      <url>http://localhost:1313/en/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Мой сайт</title>
+      <link>http://localhost:1314/ru/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/ru/event/example/</link>
+      <link>http://localhost:1314/ru/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/event/example/</guid>
+      <guid>http://localhost:1314/ru/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Peresdacha</title>
-      <link>http://localhost:1313/ru/post/summarynew/</link>
+      <link>http://localhost:1314/ru/post/summarynew/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/summarynew/</guid>
+      <guid>http://localhost:1314/ru/post/summarynew/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -63,18 +63,18 @@
     
     <item>
       <title>GitHub Lab</title>
-      <link>http://localhost:1313/ru/project/github/</link>
+      <link>http://localhost:1314/ru/project/github/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/github/</guid>
+      <guid>http://localhost:1314/ru/project/github/</guid>
       <description>&lt;p&gt;GitHub — это платформа для хостинга и совместной разработки программного обеспечения, построенная на системе контроля версий Git. Она предоставляет разработчикам удобные инструменты для управления исходным кодом, отслеживания изменений, работы в командах и ведения открытых и закрытых проектов.&lt;/p&gt;
 &lt;p&gt;license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Пост по Недел 27-31 Сентябрь</title>
-      <link>http://localhost:1313/ru/post/summary4/</link>
+      <link>http://localhost:1314/ru/post/summary4/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/summary4/</guid>
+      <guid>http://localhost:1314/ru/post/summary4/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -154,9 +154,9 @@
     
     <item>
       <title>Языки Научного Прогаммирования</title>
-      <link>http://localhost:1313/ru/post/language/</link>
+      <link>http://localhost:1314/ru/post/language/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/language/</guid>
+      <guid>http://localhost:1314/ru/post/language/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -236,9 +236,9 @@
     
     <item>
       <title>Пост по Недел 19-26 Сентябрь</title>
-      <link>http://localhost:1313/ru/post/summary3/</link>
+      <link>http://localhost:1314/ru/post/summary3/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/summary3/</guid>
+      <guid>http://localhost:1314/ru/post/summary3/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -318,9 +318,9 @@
     
     <item>
       <title>Что такое  презентаций</title>
-      <link>http://localhost:1313/ru/post/presention/</link>
+      <link>http://localhost:1314/ru/post/presention/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/presention/</guid>
+      <guid>http://localhost:1314/ru/post/presention/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -400,9 +400,9 @@
     
     <item>
       <title>Пост по Недел 12-19 Сентябрь</title>
-      <link>http://localhost:1313/ru/post/summary2/</link>
+      <link>http://localhost:1314/ru/post/summary2/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/summary2/</guid>
+      <guid>http://localhost:1314/ru/post/summary2/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -482,9 +482,9 @@
     
     <item>
       <title>Что такое LaTex</title>
-      <link>http://localhost:1313/ru/post/latex/</link>
+      <link>http://localhost:1314/ru/post/latex/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/latex/</guid>
+      <guid>http://localhost:1314/ru/post/latex/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -564,9 +564,9 @@
     
     <item>
       <title>Пост по Недел 5-12 Сентябрь</title>
-      <link>http://localhost:1313/ru/post/summary1/</link>
+      <link>http://localhost:1314/ru/post/summary1/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/summary1/</guid>
+      <guid>http://localhost:1314/ru/post/summary1/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -650,9 +650,9 @@
     
     <item>
       <title>Что такое CI/CD</title>
-      <link>http://localhost:1313/ru/post/ci-cd/</link>
+      <link>http://localhost:1314/ru/post/ci-cd/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/ci-cd/</guid>
+      <guid>http://localhost:1314/ru/post/ci-cd/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -732,41 +732,41 @@
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/ru/projects/</link>
+      <link>http://localhost:1314/ru/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/projects/</guid>
+      <guid>http://localhost:1314/ru/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/ru/project/pandas/</link>
+      <link>http://localhost:1314/ru/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/pandas/</guid>
+      <guid>http://localhost:1314/ru/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/ru/project/pytorch/</link>
+      <link>http://localhost:1314/ru/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/pytorch/</guid>
+      <guid>http://localhost:1314/ru/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/ru/experience/</link>
+      <link>http://localhost:1314/ru/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/experience/</guid>
+      <guid>http://localhost:1314/ru/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/ru/teaching/js/</link>
+      <link>http://localhost:1314/ru/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/teaching/js/</guid>
+      <guid>http://localhost:1314/ru/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -813,7 +813,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/ru/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1314/ru/ru/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -890,9 +890,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/ru/teaching/python/</link>
+      <link>http://localhost:1314/ru/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/teaching/python/</guid>
+      <guid>http://localhost:1314/ru/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -939,7 +939,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/ru/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1314/ru/ru/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1016,10 +1016,10 @@ data.head()
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/ru/publication/preprint/</link>
+      <link>http://localhost:1314/ru/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>http://localhost:1314/ru/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1314/ru/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1032,9 +1032,9 @@ data.head()
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:1313/ru/publication/journal-article/</link>
+      <link>http://localhost:1314/ru/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/publication/journal-article/</guid>
+      <guid>http://localhost:1314/ru/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1053,9 +1053,9 @@ data.head()
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/ru/publication/conference-paper/</link>
+      <link>http://localhost:1314/ru/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/publication/conference-paper/</guid>
+      <guid>http://localhost:1314/ru/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
