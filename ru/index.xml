@@ -34,6 +34,34 @@
     </item>
     
     <item>
+      <title>123456</title>
+      <link>http://localhost:1314/ru/post/summarynew1/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/ru/post/summarynew1/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Содержание&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#first&#34;&gt;First&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#second&#34;&gt;Second&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;first&#34;&gt;First&lt;/h2&gt;
+&lt;p&gt;First, teacher asked to show him, how I do the work in terminal.&lt;/p&gt;
+&lt;h2 id=&#34;second&#34;&gt;Second&lt;/h2&gt;
+&lt;p&gt;Secondly, he asked me to show, how I create the post.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Peresdacha</title>
       <link>http://localhost:1314/ru/post/summarynew/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>

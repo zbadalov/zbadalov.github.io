@@ -30,6 +30,20 @@
                 href="http://localhost:1314/ru/event/"
                 />
   </url><url>
+    <loc>http://localhost:1314/ru/post/summarynew1/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/summarynew1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1314/ru/post/summarynew1/"
+                />
+  </url><url>
     <loc>http://localhost:1314/ru/tags/academic/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
