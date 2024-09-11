@@ -2,550 +2,550 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1314/ru/event/example/</loc>
+    <loc>http://localhost:1313/ru/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/event/example/"
+                href="http://localhost:1313/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/event/example/"
+                href="http://localhost:1313/ru/event/example/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/event/</loc>
+    <loc>http://localhost:1313/ru/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/event/"
+                href="http://localhost:1313/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/event/"
+                href="http://localhost:1313/ru/event/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/academic/</loc>
+    <loc>http://localhost:1313/ru/tags/academic/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/academic/"
+                href="http://localhost:1313/tags/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/academic/"
+                href="http://localhost:1313/ru/tags/academic/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/</loc>
+    <loc>http://localhost:1313/ru/post/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/"
+                href="http://localhost:1313/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/"
+                href="http://localhost:1313/ru/post/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/summarynew/</loc>
+    <loc>http://localhost:1313/ru/post/summarynew/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/summarynew/"
+                href="http://localhost:1313/post/summarynew/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summarynew/"
+                href="http://localhost:1313/ru/post/summarynew/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/</loc>
+    <loc>http://localhost:1313/ru/tags/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/"
+                href="http://localhost:1313/ru/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/project/github/</loc>
+    <loc>http://localhost:1313/ru/project/github/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/github/"
+                href="http://localhost:1313/project/github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/project/github/"
+                href="http://localhost:1313/ru/project/github/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/hugo/</loc>
+    <loc>http://localhost:1313/ru/tags/hugo/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/hugo/"
+                href="http://localhost:1313/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/hugo/"
+                href="http://localhost:1313/ru/tags/hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/markdown/</loc>
+    <loc>http://localhost:1313/ru/tags/markdown/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/markdown/"
+                href="http://localhost:1313/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/markdown/"
+                href="http://localhost:1313/ru/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/project/</loc>
+    <loc>http://localhost:1313/ru/project/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/"
+                href="http://localhost:1313/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/project/"
+                href="http://localhost:1313/ru/project/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/wowchemy/</loc>
+    <loc>http://localhost:1313/ru/tags/wowchemy/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/wowchemy/"
+                href="http://localhost:1313/tags/wowchemy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/wowchemy/"
+                href="http://localhost:1313/ru/tags/wowchemy/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/summary4/</loc>
+    <loc>http://localhost:1313/ru/post/summary4/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/summary4/"
+                href="http://localhost:1313/post/summary4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summary4/"
+                href="http://localhost:1313/ru/post/summary4/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/language/</loc>
+    <loc>http://localhost:1313/ru/post/language/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/language/"
+                href="http://localhost:1313/post/language/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/language/"
+                href="http://localhost:1313/ru/post/language/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/summary3/</loc>
+    <loc>http://localhost:1313/ru/post/summary3/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/summary3/"
+                href="http://localhost:1313/post/summary3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summary3/"
+                href="http://localhost:1313/ru/post/summary3/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/presention/</loc>
+    <loc>http://localhost:1313/ru/post/presention/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/presention/"
+                href="http://localhost:1313/post/presention/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/presention/"
+                href="http://localhost:1313/ru/post/presention/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/summary2/</loc>
+    <loc>http://localhost:1313/ru/post/summary2/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/summary2/"
+                href="http://localhost:1313/post/summary2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summary2/"
+                href="http://localhost:1313/ru/post/summary2/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/latex/</loc>
+    <loc>http://localhost:1313/ru/post/latex/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/latex/"
+                href="http://localhost:1313/post/latex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/latex/"
+                href="http://localhost:1313/ru/post/latex/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/summary1/</loc>
+    <loc>http://localhost:1313/ru/post/summary1/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/summary1/"
+                href="http://localhost:1313/post/summary1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/summary1/"
+                href="http://localhost:1313/ru/post/summary1/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/post/ci-cd/</loc>
+    <loc>http://localhost:1313/ru/post/ci-cd/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/ci-cd/"
+                href="http://localhost:1313/post/ci-cd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/post/ci-cd/"
+                href="http://localhost:1313/ru/post/ci-cd/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/projects/</loc>
+    <loc>http://localhost:1313/ru/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/projects/"
+                href="http://localhost:1313/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/projects/"
+                href="http://localhost:1313/ru/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/project/pandas/</loc>
+    <loc>http://localhost:1313/ru/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/pandas/"
+                href="http://localhost:1313/project/pandas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/project/pandas/"
+                href="http://localhost:1313/ru/project/pandas/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/project/pytorch/</loc>
+    <loc>http://localhost:1313/ru/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/pytorch/"
+                href="http://localhost:1313/project/pytorch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/project/pytorch/"
+                href="http://localhost:1313/ru/project/pytorch/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/experience/</loc>
+    <loc>http://localhost:1313/ru/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/experience/"
+                href="http://localhost:1313/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/experience/"
+                href="http://localhost:1313/ru/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/javascript/</loc>
+    <loc>http://localhost:1313/ru/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/javascript/"
+                href="http://localhost:1313/tags/javascript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/javascript/"
+                href="http://localhost:1313/ru/tags/javascript/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/teaching/js/</loc>
+    <loc>http://localhost:1313/ru/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/teaching/js/"
+                href="http://localhost:1313/teaching/js/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/teaching/js/"
+                href="http://localhost:1313/ru/teaching/js/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/teaching/python/</loc>
+    <loc>http://localhost:1313/ru/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/teaching/python/"
+                href="http://localhost:1313/teaching/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/teaching/python/"
+                href="http://localhost:1313/ru/teaching/python/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/python/</loc>
+    <loc>http://localhost:1313/ru/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/python/"
+                href="http://localhost:1313/tags/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/python/"
+                href="http://localhost:1313/ru/tags/python/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/teaching/</loc>
+    <loc>http://localhost:1313/ru/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/teaching/"
+                href="http://localhost:1313/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/teaching/"
+                href="http://localhost:1313/ru/teaching/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/</loc>
+    <loc>http://localhost:1313/ru/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/"
+                href="http://localhost:1313/ru/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication/preprint/</loc>
+    <loc>http://localhost:1313/ru/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/preprint/"
+                href="http://localhost:1313/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication/preprint/"
+                href="http://localhost:1313/ru/publication/preprint/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication_types/article/</loc>
+    <loc>http://localhost:1313/ru/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/article/"
+                href="http://localhost:1313/publication_types/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication_types/article/"
+                href="http://localhost:1313/ru/publication_types/article/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/large-language-models/</loc>
+    <loc>http://localhost:1313/ru/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/large-language-models/"
+                href="http://localhost:1313/tags/large-language-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/large-language-models/"
+                href="http://localhost:1313/ru/tags/large-language-models/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication_types/</loc>
+    <loc>http://localhost:1313/ru/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/"
+                href="http://localhost:1313/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication_types/"
+                href="http://localhost:1313/ru/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication/</loc>
+    <loc>http://localhost:1313/ru/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/"
+                href="http://localhost:1313/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication/"
+                href="http://localhost:1313/ru/publication/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication/journal-article/</loc>
+    <loc>http://localhost:1313/ru/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/journal-article/"
+                href="http://localhost:1313/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication/journal-article/"
+                href="http://localhost:1313/ru/publication/journal-article/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/ru/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/article-journal/"
+                href="http://localhost:1313/publication_types/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication_types/article-journal/"
+                href="http://localhost:1313/ru/publication_types/article-journal/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/tags/source-themes/</loc>
+    <loc>http://localhost:1313/ru/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/source-themes/"
+                href="http://localhost:1313/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/tags/source-themes/"
+                href="http://localhost:1313/ru/tags/source-themes/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication/conference-paper/</loc>
+    <loc>http://localhost:1313/ru/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/conference-paper/"
+                href="http://localhost:1313/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication/conference-paper/"
+                href="http://localhost:1313/ru/publication/conference-paper/"
                 />
   </url><url>
-    <loc>http://localhost:1314/ru/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/ru/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/paper-conference/"
+                href="http://localhost:1313/publication_types/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1314/ru/publication_types/paper-conference/"
+                href="http://localhost:1313/ru/publication_types/paper-conference/"
                 />
   </url>
 </urlset>
