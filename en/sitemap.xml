@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://zbadalov.github.io/en/tags/academic/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://zbadalov.github.io/en/post/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -57,6 +57,24 @@
                 hreflang="en-us"
                 href="https://zbadalov.github.io/en/post/"
                 />
+  </url><url>
+    <loc>https://zbadalov.github.io/en/tags/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://zbadalov.github.io/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://zbadalov.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://zbadalov.github.io/en/post/summary_new/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://zbadalov.github.io/en/project/github/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
@@ -112,20 +130,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://zbadalov.github.io/en/project/"
-                />
-  </url><url>
-    <loc>https://zbadalov.github.io/en/tags/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://zbadalov.github.io/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://zbadalov.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://zbadalov.github.io/en/tags/wowchemy/</loc>
